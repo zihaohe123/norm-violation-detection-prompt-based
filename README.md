@@ -1,6 +1,6 @@
-#CPL-NoViD: Context-Aware Prompt-based Learning for Norm Violation Detection in Online Communities
+# CPL-NoViD: Context-Aware Prompt-based Learning for Norm Violation Detection in Online Communities
 
-### In this [paper](https://arxiv.org/abs/2305.09846) we try to detect norm violation on Reddit using context-aware prompt-based learning. The code is based on [OpenPrompt](https://github.com/thunlp/OpenPrompt) for prompt-based learning. I recommend getting yourself familiarized with this framework if you wanna fully understand how the code works.
+In this [paper](https://arxiv.org/abs/2305.09846) we try to detect norm violation on Reddit using context-aware prompt-based learning. The code is based on [OpenPrompt](https://github.com/thunlp/OpenPrompt) for prompt-based learning. I recommend getting yourself familiarized with this framework if you wanna fully understand how the code works.
 
 
 ## Usage
