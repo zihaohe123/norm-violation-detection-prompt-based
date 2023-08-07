@@ -1,0 +1,3 @@
+python -u train.py --batch_size=44 --gpu=0 --seed=2020 --src_comm=~CanadaPolitics --tgt_cat=CanadaPolitics --description=cross_comm_canadapolitics
+#python -u train.py --batch_size=44 --gpu=0 --seed=2021 --src_comm=~CanadaPolitics --tgt_cat=CanadaPolitics --description=cross_comm_canadapolitics
+#python -u train.py --batch_size=44 --gpu=0 --seed=2022 --src_comm=~CanadaPolitics --tgt_cat=CanadaPolitics --description=cross_comm_canadapolitics

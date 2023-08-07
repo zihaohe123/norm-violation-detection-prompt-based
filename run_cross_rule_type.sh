@@ -1,0 +1,3 @@
+python -u train.py --batch_size=44 --gpu=0 --seed=2020 --src_cat=~incivility --tgt_cat=incivility --description=cross_rule_incivility
+#python -u train.py --batch_size=44 --gpu=0 --seed=2021 --src_cat=~incivility --tgt_cat=incivility --description=cross_rule_incivility
+#python -u train.py --batch_size=44 --gpu=0 --seed=2022 --src_cat=~incivility --tgt_cat=incivility --description=cross_rule_incivility

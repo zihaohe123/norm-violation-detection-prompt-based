@@ -1,0 +1,10 @@
+numpy==1.21.2
+numpy==1.21.4
+openprompt==1.0.1
+pandarallel==1.6.3
+pandas==1.3.4
+redditcleaner==1.1.2
+scikit_learn==1.0.1
+torch==1.13.1+cu116
+transformers==4.28.1
+tweet_preprocessor==0.6.0
